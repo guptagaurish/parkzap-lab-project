@@ -1,1 +1,0 @@
-web: gunicorn parkzap-labs-project.wsgi
