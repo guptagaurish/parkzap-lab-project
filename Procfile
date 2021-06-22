@@ -1,1 +1,1 @@
-web: gunicorn parkzap-lab-project.wsgi
+web: gunicorn parkzap-lab-project.wsgi --log-file -
