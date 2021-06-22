@@ -39,7 +39,7 @@ def register(request):
         send_mail(
             "Submission of form",
             "Hello,Thank you for registering with us ; Your Form is succesfully Submitted and you are registered.",
-            "guptagaurish1011@gmail.com",
+            "simonlexus44@gmail.com",
             [p.email],
             fail_silently=False
         )
