@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath school school.wsgi 
+web: gunicorn --pythonpath school.wsgi 
